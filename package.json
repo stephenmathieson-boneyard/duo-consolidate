@@ -1,0 +1,33 @@
+{
+  "name": "duo-consolidate",
+  "version": "0.0.0",
+  "description": "Duo plugin for implicit transforms",
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/duo-consolidate.git"
+  },
+  "dependencies": {
+    "debug": "^2.1.1",
+    "thunkify": "^2.1.2"
+  },
+  "devDependencies": {
+    "co-mocha": "^1.1.0",
+    "duo": "^0.9.4",
+    "duo-handlebars": "0.0.1",
+    "duo-hogan": "^0.1.1",
+    "duo-jade": "0.0.5",
+    "duo-less": "0.0.2",
+    "duo-stylus": "0.0.1",
+    "duo-toml": "0.0.1",
+    "duo-yaml": "0.0.1",
+    "istanbul": "git://github.com/gotwarlost/istanbul#c6f8fc8b102cfa4e4455d6a165485b38cb58160c",
+    "mocha": "^2.1.0",
+    "rimraf": "^2.2.8"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
+}
