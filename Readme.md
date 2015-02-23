@@ -3,6 +3,8 @@
 
   Duo plugin for implicit transforms
 
+  [![Build Status](https://travis-ci.org/stephenmathieson/duo-consolidate.svg?branch=master)](https://travis-ci.org/stephenmathieson/duo-consolidate)
+
 ## Usage
 
 ```sh
