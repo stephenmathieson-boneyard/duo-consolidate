@@ -21,6 +21,8 @@ $ duo --use duo-consolidate < index.styl > build.css
   - [toml](https://github.com/duojs/toml)
   - [yaml](https://github.com/jasonkuhrt/duo-yaml)
 
+  TODO: [sass](https://github.com/duojs/sass) support
+
 ## Credits
 
   - **idea**: [duojs/duo#388](https://github.com/duojs/duo/issues/338)
